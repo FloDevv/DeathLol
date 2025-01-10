@@ -4,7 +4,7 @@ This application shows a message overlay when your character dies in League of L
 
 ## Screenshots
 
-![Screenshot](dead.png)
+![Screenshot](dead.webp)
 
 ## Installation
 
